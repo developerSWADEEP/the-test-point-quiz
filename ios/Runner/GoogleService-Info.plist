@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>721963740889-dh9pngcbov233e8hok2b4i142nem7vs4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.721963740889-dh9pngcbov233e8hok2b4i142nem7vs4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>721963740889-0ohq3pp1m8ihaaje0t0mt4knoadeiema.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnP0MNsiNXBj-EW--UH5ABp3HP5bJf6l4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>721963740889</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nextwave.thetestpoint</string>
+	<key>PROJECT_ID</key>
+	<string>the-test-point</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-test-point.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:721963740889:ios:c19bac87f4cd365642e124</string>
+	<key>DATABASE_URL</key>
+	<string>https://the-test-point-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
